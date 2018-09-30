@@ -1,0 +1,2 @@
+# SPOJ
+Only for fun
